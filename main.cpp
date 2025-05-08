@@ -1,7 +1,7 @@
 //
 //  Chaotic Trio:
 //  A visualisation of the planar three body problem. 
-//  Created by Kishal Tandel on 4/5/2025.
+//  Created by Kishal Tandel on 8/5/2025.
 //
 
 #include <iostream>

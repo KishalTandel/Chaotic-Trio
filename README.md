@@ -13,7 +13,4 @@
 <div align="center">
     <p>Even minor changes in initial conditions cause major changes in the way the system evolves.</p>
 </div>
-<br>
-<div align="center">
-Read my paper <a href="https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/KishalTandel/Papers/refs/heads/main/Planar Three Body Problem.pdf" style="text-decoration:none;"><em>Planar Three Body Problem</em></a>
-</div>
+
